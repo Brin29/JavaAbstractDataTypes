@@ -34,5 +34,7 @@ public class genericosPractice {
 		// Tipos acotados que tipo debe ser la clase
 		
 		Generico.mostrar(1);
+		
+		Generico.mostrarMasDeUno(1, "Hola");
 	}
 }
